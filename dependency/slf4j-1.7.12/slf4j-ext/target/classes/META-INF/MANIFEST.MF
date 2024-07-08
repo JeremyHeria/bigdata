@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Built-By: 22105
+Build-Jdk: 15.0.2
+Boot-Class-Path: ../../../../javassist/javassist/3.4.GA/javassist-3.4.
+ GA.jar javassist-3.4.GA.jar javassist.jar
+Bundle-Description: Extensions to the SLF4J API
+Bundle-Version: 
+Created-By: Maven Integration for Eclipse
+Implementation-Version: 1.7.12
+Premain-Class: org.slf4j.agent.AgentPremain
+Implementation-Title: slf4j-ext
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: slf4j.ext
+Bundle-Name: slf4j-ext
+Bundle-Vendor: SLF4J.ORG
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.slf4j.profiler;version=${parsedVersion.osgiVersion
+ }, org.slf4j.cal10n;version=${parsedVersion.osgiVersion}, org.slf4j.e
+ xt;version=${parsedVersion.osgiVersion}
+Import-Package: org.slf4j;version=${parsedVersion.osgiVersion}, org.sl
+ f4j.spi;version=${parsedVersion.osgiVersion}, org.slf4j.helpers;versi
+ on=${parsedVersion.osgiVersion}, ch.qos.cal10n;version=0.8.1
+

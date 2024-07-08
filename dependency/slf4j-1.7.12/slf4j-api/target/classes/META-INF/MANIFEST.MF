@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: 22105
+Build-Jdk: 15.0.2
+Bundle-Description: The slf4j API
+Bundle-Version: 
+Created-By: Maven Integration for Eclipse
+Implementation-Version: 1.7.12
+Implementation-Title: slf4j-api
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: slf4j.api
+Bundle-Name: slf4j-api
+Bundle-Vendor: SLF4J.ORG
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Export-Package: org.slf4j;version=${parsedVersion.osgiVersion}, org.sl
+ f4j.spi;version=${parsedVersion.osgiVersion}, org.slf4j.helpers;versi
+ on=${parsedVersion.osgiVersion}
+Import-Package: org.slf4j.impl;version=1.6.0
+

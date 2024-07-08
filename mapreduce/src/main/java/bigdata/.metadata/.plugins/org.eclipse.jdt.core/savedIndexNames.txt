@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+H:\maven\mapreduce\src\main\java\bigdata\.metadata\.plugins\org.eclipse.jdt.core
+3144727730.index
+2624794327.index
+1186162900.index
+146178113.index
+3570011541.index
+2776760980.index
+3538436995.index
+2417523066.index
+2866503970.index
+1367792557.index
+776034113.index
+101527343.index
+598533975.index
+2343860579.index
+309500115.index
+3070966750.index
+748391208.index
+3859122758.index
+4281519194.index
